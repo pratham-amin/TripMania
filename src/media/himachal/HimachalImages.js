@@ -1,0 +1,16 @@
+export const HimachalImages ={
+    d1 : require('./port1.jpg'),
+    d2 : require('./port2.jpg'),
+    db1 : require('./trek1.jpg'),
+    db2 : require('./trek2.jpg'),
+    dc1 : require('./nature1.jpg'),
+    dc2 : require('./nature2.jpg'),
+    dh1 : require('./hotel.jpg'),
+    dh2 : require('./tea.jpg'),
+    dp1 : require('./pack1.jpg'),
+    dp2 : require('./pack2.jpg'),
+    dp3 : require('./pack3.jpg'),
+    dp4 : require('./pack4.jpg'),
+    do1 : require('./onlyh1.jpg'),
+    do2 : require('./onlyh2.jpg'),
+}
