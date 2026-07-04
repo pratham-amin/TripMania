@@ -114,7 +114,7 @@ export const Locations = () => {
   ];
 
   const [searchField, setSearchField] = useState("");
-  const [places, setPlaces] = useState(packageInfoRow1);
+  const [places] = useState(packageInfoRow1);
   const [filteredPlaces, setFilteredPlaces] = useState(places);
 
   useEffect(() => {

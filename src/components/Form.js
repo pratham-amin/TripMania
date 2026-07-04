@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Form.css';
 
 export default function Form() {
-  const [formValid, setFormValid] = useState(false);
+  const [, setFormValid] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
