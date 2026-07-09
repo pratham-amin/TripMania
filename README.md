@@ -79,3 +79,38 @@ npm start
 ```
 
 5. Open your browser and visit
+
+### Build for Production
+```bash
+npm run build
+```
+
+## 🌐 Pages
+
+| Page | Description |
+|---|---|
+| Home | Hero section with featured destinations and highlights |
+| Domestic | Curated domestic travel destinations across India |
+| International | Featured international travel packages and locations |
+| Locations | Discovery section with browsable travel spots |
+| Book | Travel booking and planning interface |
+| Contact | Enquiry form and contact information |
+
+## 🧩 Key Components
+
+- **Navbar** — Responsive navigation with mobile hamburger menu
+- **Hero** — Full-width landing section with CTA buttons
+- **DestinationCard** — Reusable card component for travel listings
+- **Footer** — Site-wide footer with links and info
+- **Form** — Contact and booking form with validation
+
+## 👨‍💻 About the Developer
+
+Built by **Pratham Sathish** — Frontend Developer and MIT student at Deakin University, Burwood.
+
+- 📍 Burwood, VIC, Australia
+- 📧 sprathamamin23@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/pratham-s-5a3856290)
+- 💻 [GitHub](https://github.com/pratham-amin)
+- 🌐 [Portfolio](https://portfolio-pratham-amin.vercel.app/)
+
