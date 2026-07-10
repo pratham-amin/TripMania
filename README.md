@@ -79,6 +79,7 @@ npm start
 ```
 
 5. Open your browser and visit
+http://localhost:3000
 
 ### Build for Production
 ```bash
